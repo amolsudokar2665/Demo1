@@ -1,14 +1,11 @@
-NAKKASI WEBSITE — QUICK START
+NAKKASI — SINGLE SCROLLING WEBSITE
+The single-page site follows the latest requested order:
+1. NAKKASI Introduction — brand welcome and vision
+2. The World of Nakkasi — Traditional Jewellery, Modern Jewellery and Handbags
+3. The Story Behind Nakkasi — Naman, Founder
+4. Mamta — Co-Founder
+5. Collections / Shop — product catalogue
 
-Included:
-- index.html: responsive storefront for traditional Indian artificial jewellery
-- Product categories and price sorting
-- Demo shopping bag with quantity controls and totals
-- UPI / card options shown in checkout preview
-- No build tools or paid hosting required for the static demo
+Navigation links scroll to the relevant sections. Keep founder-naman.jpg and mamta.jpg in the same folder as index.html.
 
-IMPORTANT BEFORE SELLING:
-1. Replace sample product names, prices, and decorative artwork with your real products and photos.
-2. Checkout is a front-end demo only. It does not take payments or create real orders.
-3. Connect a payment gateway such as Razorpay or Cashfree for UPI/cards, and add backend order management, shipping, privacy, returns, and contact details.
-4. Free static hosting options include GitHub Pages, Netlify, and Cloudflare Pages. Upload/publish the index.html site files using the host's current instructions. A custom domain may cost extra.
+Product names, sample prices and decorative product visuals are placeholders. This is a static website preview; real UPI/card payment processing, order management and shipping integration are still required before taking orders. Upload the complete folder to Netlify, Cloudflare Pages or GitHub Pages for free static hosting.
